@@ -4,12 +4,7 @@
 - 
 - 🌱 I’m currently learning {Data Analysis, ML & AI}.
 - 
-- 💞️ I’m looking to collaborate on {
-- -Automation & Control Systems Design.
-- -PLC, SCADA, DCS, HMI, IIOT Programming.
-- Data Analysis, ML, & AI.
-- Model-Based Design.
-- }
+- 💞️ I’m looking to collaborate on {Automation & Control Systems Design, PLC, SCADA, DCS, HMI, IIOT Programming, Data Analysis, ML, & AI, Model-Based Design}
 - 
 - 📫 How to reach me ...
 - email: Islam.Ahmed94@yahoo.com
