@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @Islam-Ahmed-Ali, an Automation Engineer with +5 years of experienece in designing, programming, implementing & maintaining Automation & Control Systems.
 - 
-- 👀 I’m interested in {
-- Automation. 
-- Control Systems. 
-- Machine Learning & Artificial Intelligence. 
-- Data Analysis.
-- Digital Transformation. 
-- }
+- 👀 I’m interested in {Automation, Control Systems, Machine Learning & Artificial Intelligence, Data Analysis, Digital Transformation}
 - 
 - 🌱 I’m currently learning {Data Analysis, ML & AI}.
 - 
